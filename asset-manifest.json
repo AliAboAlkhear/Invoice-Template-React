@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Invoice-Template-React/static/css/main.6b0d10d0.chunk.css",
+    "main.js": "/Invoice-Template-React/static/js/main.b7fb8aa0.chunk.js",
+    "main.js.map": "/Invoice-Template-React/static/js/main.b7fb8aa0.chunk.js.map",
+    "runtime-main.js": "/Invoice-Template-React/static/js/runtime-main.3f00082f.js",
+    "runtime-main.js.map": "/Invoice-Template-React/static/js/runtime-main.3f00082f.js.map",
+    "static/css/2.a95be28f.chunk.css": "/Invoice-Template-React/static/css/2.a95be28f.chunk.css",
+    "static/js/2.fc062d66.chunk.js": "/Invoice-Template-React/static/js/2.fc062d66.chunk.js",
+    "static/js/2.fc062d66.chunk.js.map": "/Invoice-Template-React/static/js/2.fc062d66.chunk.js.map",
+    "static/js/3.3437ff0d.chunk.js": "/Invoice-Template-React/static/js/3.3437ff0d.chunk.js",
+    "static/js/3.3437ff0d.chunk.js.map": "/Invoice-Template-React/static/js/3.3437ff0d.chunk.js.map",
+    "index.html": "/Invoice-Template-React/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/Invoice-Template-React/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.6b0d10d0.chunk.css.map": "/Invoice-Template-React/static/css/main.6b0d10d0.chunk.css.map",
+    "static/js/2.fc062d66.chunk.js.LICENSE.txt": "/Invoice-Template-React/static/js/2.fc062d66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f00082f.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.fc062d66.chunk.js",
+    "static/css/main.6b0d10d0.chunk.css",
+    "static/js/main.b7fb8aa0.chunk.js"
+  ]
+}
