@@ -1,0 +1,60 @@
+.content {
+  padding: 5%;
+  width: 100%;
+}
+
+.Danhop {
+  font-size: 80px !important;
+}
+
+.job {
+  background-color: gainsboro;
+  width: 80%;
+  padding: 3% 8%;
+  text-align: center;
+}
+
+.info {
+  padding: 8% 0 0 15%;
+}
+
+.total-card {
+  width: 100%;
+  padding-top: 10%;
+  margin: 0;
+}
+.total-card .ant-card-head {
+  background-color: gainsboro;
+}
+
+.total-card .ant-card-body {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  padding: 20% 0;
+}
+
+.card {
+  width: 66%;
+  margin-left: 65px;
+}
+
+.table-info {
+  padding-top: 8%;
+  width: 110%;
+}
+
+.table-info .ant-card-head {
+  background-color: gainsboro;
+}
+
+.footer-style{
+  margin-top: 3%;
+  
+}
+
+.footer-inv {
+  float: right;
+  font-size: 40px;
+  font-weight: bold;
+}
